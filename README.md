@@ -1,4 +1,4 @@
-Soft AP with hostapd. Host: 
+Soft AP with hostapd. 
 
 Tested successfully on Raspberry PI Zero. Scanning device: Samsung Galaxy III.
 
