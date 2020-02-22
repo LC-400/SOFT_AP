@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo iw list | grep "Supported interface modes" -A8
+
